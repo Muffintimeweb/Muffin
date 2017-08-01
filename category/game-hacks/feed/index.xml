@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>ViralMuffin</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Game Hacks &#8211; ViralMuffin</title>
+	<atom:link href="/category/game-hacks/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Discover the World</description>
 	<lastBuildDate>Tue, 01 Aug 2017 21:44:30 +0000</lastBuildDate>
