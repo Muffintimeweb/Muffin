@@ -12,11 +12,11 @@
 	<atom:link href="http://viralmuffin.com/category/game/feed/" rel="self" type="application/rss+xml" />
 	<link>http://viralmuffin.com/</link>
 	<description>Discover the World</description>
-	<lastBuildDate>Wed, 02 Aug 2017 19:41:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Aug 2017 01:48:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
 	<item>
 		<title>Play Pacman</title>
 		<link>http://viralmuffin.com/play-pacman/</link>
