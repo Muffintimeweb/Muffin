@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>ViralMuffin</title>
-	<atom:link href="http://viralmuffin.com/feed/" rel="self" type="application/rss+xml" />
+	<title>All &#8211; ViralMuffin</title>
+	<atom:link href="http://viralmuffin.com/category/all/feed/" rel="self" type="application/rss+xml" />
 	<link>http://viralmuffin.com/</link>
 	<description>Discover the World</description>
 	<lastBuildDate>Sat, 05 Aug 2017 02:46:32 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
 
 <image>
 	<url>http://viralmuffin.com/wp-content/uploads/2017/08/cropped-kawaii_muffin_by_elekmario-d5ul3eh-1-150x150.jpg</url>
-	<title>ViralMuffin</title>
+	<title>All &#8211; ViralMuffin</title>
 	<link>http://viralmuffin.com/</link>
 	<width>32</width>
 	<height>32</height>
