@@ -12,18 +12,35 @@
 	<atom:link href="http://viralmuffin.com/feed/" rel="self" type="application/rss+xml" />
 	<link>http://viralmuffin.com/</link>
 	<description>Discover the World</description>
-	<lastBuildDate>Mon, 16 Oct 2017 19:18:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Oct 2017 16:55:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>Nicolas Flamel, the greatest alchemist of all time</title>
+		<link>http://viralmuffin.com/nicolas-flamel-greatest-alchemist-time/</link>
+		<pubDate>Wed, 18 Oct 2017 16:55:21 +0000</pubDate>
+		<dc:creator><![CDATA[Yappo]]></dc:creator>
+				<category><![CDATA[Culture]]></category>
 
-<image>
-	<url>http://viralmuffin.com/wp-content/uploads/2017/08/cropped-kawaii_muffin_by_elekmario-d5ul3eh-1-150x150.jpg</url>
-	<title>ViralMuffin</title>
-	<link>http://viralmuffin.com/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-</channel>
+		<guid isPermaLink="false">http://viralmuffin.com/?p=185</guid>
+		<description><![CDATA[<p>A happy life Flamel was born around 1335 in the small town of Pontoise, near Paris. Little is known about his childhood and youth, his parents are known to be &#8220;good people&#8221; who enjoy a comfortable lifestyle. After a few years spent in Pontoise, the Flamel family moved to Paris. Little Nicolas goes to apprenticeship at a bookseller [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://viralmuffin.com/nicolas-flamel-greatest-alchemist-time/">Nicolas Flamel, the greatest alchemist of all time</a> appeared first on <a rel="nofollow" href="http://viralmuffin.com/">ViralMuffin</a>.</p>
+]]></description>
+		</item>
+		<item>
+		<title>The true story of the werewolves</title>
+		<link>http://viralmuffin.com/true-story-werewolves/</link>
+		<pubDate>Wed, 18 Oct 2017 16:41:57 +0000</pubDate>
+		<dc:creator><![CDATA[Yappo]]></dc:creator>
+				<category><![CDATA[All]]></category>
+		<category><![CDATA[Culture]]></category>
+
+		<guid isPermaLink="false">http://viralmuffin.com/?p=182</guid>
+		<description><![CDATA[<p>Unknown and feared, the wolf terrorized our medieval ancestors for a long time. When this wolf became a wolf-man, baptized as a werewolf, the fright redoubled. Legends about men who turn into wolves have been known since antiquity. The very term &#8220;lycanthropy&#8221; comes from the Greek king Lycaon &#8211; sovereign of Arcadia &#8211; transformed by Zeus into a wolf for daring to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://viralmuffin.com/true-story-werewolves/">The true story of the werewolves</a> appeared first on <a rel="nofollow" href="http://viralmuffin.com/">ViralMuffin</a>.</p>
+]]></description>
+		</item>
+	</channel>
 </rss>
