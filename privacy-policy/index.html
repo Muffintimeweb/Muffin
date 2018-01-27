@@ -93,7 +93,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 <link rel="alternate" type="application/json+oembed" href="http://viralmuffin.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhttp://viralmuffin.com%2Fprivacy-policy%2F" />
 <link rel="alternate" type="text/xml+oembed" href="http://viralmuffin.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhttp://viralmuffin.com%2Fprivacy-policy%2F&#038;format=xml" />
 	<style id="tdw-css-placeholder"></style>			<script>
-				window.tdwGlobal = {"adminUrl":"http:\/\/viralmuffin.com\/wp-admin\/","wpRestNonce":"c1d3b852a1","wpRestUrl":"http:\/\/viralmuffin.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+				window.tdwGlobal = {"adminUrl":"http:\/\/viralmuffin.com\/wp-admin\/","wpRestNonce":"dc64c189a2","wpRestUrl":"http:\/\/viralmuffin.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
 			</script>
 			<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     
@@ -413,7 +413,7 @@ Header style 5
         Version: 8.1 (rara)
         Deploy mode: deploy
         
-        uid: 5a6a7db526a2a
+        uid: 5a6bcb450c84e
     -->
 
     
@@ -438,43 +438,46 @@ display: none;
 }
 
 .td-smart-list-button {
-    background-color: #32b259;
+    background-color: #dc190b;
 }
 
-
-a.button {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 40px;
-	color: #ffffff;
-	padding: 10px 20px;
-	background: -moz-linear-gradient(
-		top,
-		#32b259 0%,
-		#32b259);
-	background: -webkit-gradient(
-		linear, left top, left bottom,
-		from(#32b259),
-		to(#32b259));
-	-moz-border-radius: 0px;
-	-webkit-border-radius: 0px;
-	border-radius: 0px;
-	border: 1px solid #33854b;
-	-moz-box-shadow:
-		0px 1px 3px rgba(000,000,000,0.5),
-		inset 0px 0px 2px rgba(255,255,255,0.7);
-	-webkit-box-shadow:
-		0px 1px 3px rgba(000,000,000,0.5),
-		inset 0px 0px 2px rgba(255,255,255,0.7);
-	box-shadow:
-		0px 1px 3px rgba(000,000,000,0.5),
-		inset 0px 0px 2px rgba(255,255,255,0.7);
-	text-shadow:
-		0px -1px 0px rgba(000,000,000,0.4),
-		0px 1px 0px rgba(255,255,255,0.3);
+.td-sml-current-item-nr{
+display: none;
 }
 
 .td-smart-list-button {
     font-size: 28px;
+}
+
+a.button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: #ffffff;
+	padding: 10px 30px;
+	background: -moz-linear-gradient(
+		top,
+		#dc190b 0%,
+		#dc190b);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#dc190b),
+		to(#dc190b));
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	border: 10px solid #e1e1e1;
+	-moz-box-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		inset 0px 0px 0px rgba(255,255,255,0);
+	-webkit-box-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		inset 0px 0px 0px rgba(255,255,255,0);
+	box-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		inset 0px 0px 0px rgba(255,255,255,0);
+	text-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		0px 0px 0px rgba(255,255,255,0);
 }
 
 </style>
@@ -573,8 +576,8 @@ a.button {
 						</script>
 
 
-						<textarea class="tdw-css-writer-editor td_live_css_uid_1_5a6a7db527290"></textarea>
-						<div id="td_live_css_uid_1_5a6a7db527290" class="td-code-editor"></div>
+						<textarea class="tdw-css-writer-editor td_live_css_uid_1_5a6bcb450d11b"></textarea>
+						<div id="td_live_css_uid_1_5a6bcb450d11b" class="td-code-editor"></div>
 
 
 						<script>
@@ -585,7 +588,7 @@ a.button {
 									tdLiveCssInject.init();
 
 
-									var editor_textarea = jQuery('.td_live_css_uid_1_5a6a7db527290');
+									var editor_textarea = jQuery('.td_live_css_uid_1_5a6bcb450d11b');
 									var languageTools = ace.require("ace/ext/language_tools");
 									var tdcCompleter = {
 										getCompletions: function (editor, session, pos, prefix, callback) {
@@ -646,7 +649,7 @@ a.button {
 									};
 									languageTools.addCompleter(tdcCompleter);
 
-									window.editor = ace.edit("td_live_css_uid_1_5a6a7db527290");
+									window.editor = ace.edit("td_live_css_uid_1_5a6bcb450d11b");
 
 									// 'change' handler is written as function because it's called by tdc_on_add_css_live_components (of wp_footer hook)
 									// We did it to reattach the existing compiled css to the new content received from server.
