@@ -12,7 +12,7 @@
 	<atom:link href="http://viralmuffin.com/category/celeb/feed/" rel="self" type="application/rss+xml" />
 	<link>http://viralmuffin.com/</link>
 	<description>Discover the World</description>
-	<lastBuildDate>Thu, 15 Feb 2018 01:14:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Feb 2018 19:26:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -97,9 +97,7 @@
 		<pubDate>Fri, 01 Dec 2017 08:59:51 +0000</pubDate>
 		<dc:creator><![CDATA[Yappo]]></dc:creator>
 				<category><![CDATA[Adventure]]></category>
-		<category><![CDATA[All]]></category>
 		<category><![CDATA[Celeb]]></category>
-		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[List]]></category>
 
 		<guid isPermaLink="false">http://viralmuffin.com/?p=457</guid>
